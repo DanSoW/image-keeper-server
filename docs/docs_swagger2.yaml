@@ -1,0 +1,56 @@
+---
+  info: 
+    description: "Тестовое задание"
+    title: "Image Keeper"
+    version: "1.0.0"
+    contact: 
+      email: "swdaniel@yandex.ru"
+  host: "localhost:5000"
+  basePath: "/"
+  produces: 
+    - "application/json"
+    - "application/xml"
+  schemes: 
+    - "http"
+    - "https"
+  securityDefinitions: 
+    JWT: 
+      type: "apiKey"
+      in: "header"
+      name: "Authorization"
+      description: ""
+  externalDocs: 
+    description: "Ссылка на внешнюю документацию"
+    url: "http://localhost:5000/api-docs"
+  swagger: "2.0"
+  paths: {}
+  definitions: 
+    ApiError: 
+      properties: 
+        message: 
+          type: "string"
+          description: ""
+        errors: 
+          type: "array"
+          items: 
+            $ref: "#/definitions/FieldError"
+    FieldError: 
+      properties: 
+        type: 
+          type: "string"
+          description: ""
+        value: 
+          type: "string"
+          description: ""
+        msg: 
+          type: "string"
+          description: ""
+        path: 
+          type: "string"
+          description: ""
+        location: 
+          type: "string"
+          description: ""
+  responses: {}
+  parameters: {}
+  tags: []

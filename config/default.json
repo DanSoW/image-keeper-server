@@ -1,0 +1,20 @@
+{
+    "port": "5000",
+    "database": {
+        "user": "postgres",
+        "host": "localhost",
+        "database": "image_keeper",
+        "port": "5432"
+    },
+    "url": {
+        "client": "http://localhost:3000",
+        "management": "http://localhost:3001",
+        "api": "http://localhost:5000"
+    },
+    "log": {
+        "sequelize": false
+    },
+    "doc": {
+        "swagger2": false
+    }
+}

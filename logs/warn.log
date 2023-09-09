@@ -1,0 +1,109 @@
+{"level":"error","message":"Cannot access 'data' before initialization","timestamp":"2023-09-09 01:26:47"}
+{"level":"error","message":"Cannot access 'data' before initialization","timestamp":"2023-09-09 01:27:42"}
+{"level":"error","message":"Cannot access 'data' before initialization","timestamp":"2023-09-09 01:28:42"}
+{"level":"error","message":"Cannot access 'data' before initialization","timestamp":"2023-09-09 01:28:52"}
+{"level":"error","message":"Cannot access 'data' before initialization","timestamp":"2023-09-09 01:29:59"}
+{"level":"error","message":"md5 is not defined","timestamp":"2023-09-09 01:31:28"}
+{"level":"error","message":"md5 is not defined","timestamp":"2023-09-09 01:31:33"}
+{"level":"error","message":"md5 is not defined","timestamp":"2023-09-09 01:44:00"}
+{"level":"error","message":"md5 is not defined","timestamp":"2023-09-09 01:44:48"}
+{"level":"error","message":"Cannot access 'data' before initialization","timestamp":"2023-09-09 01:47:26"}
+{"level":"error","message":"Cannot access 'data' before initialization","timestamp":"2023-09-09 01:47:52"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'toString')","timestamp":"2023-09-09 01:48:25"}
+{"level":"error","message":"res is not defined","timestamp":"2023-09-09 01:49:17"}
+{"level":"error","message":"��������, ��� ������� ����� ��������","timestamp":"2023-09-09 01:50:20"}
+{"level":"error","message":"��������, ��� ������� ����� ��������","timestamp":"2023-09-09 01:50:37"}
+{"level":"error","message":"��������, ��� ������� ����� ��������","timestamp":"2023-09-09 01:51:06"}
+{"level":"error","message":"��������, ��� ������� ����� ��������","timestamp":"2023-09-09 01:52:12"}
+{"level":"error","message":"EBUSY: resource busy or locked, open './public/tmp_5d41ff4a333288f05a1aaa7cbd616287.jpg'","timestamp":"2023-09-09 04:29:29"}
+{"level":"error","message":"date_local is not defined","timestamp":"2023-09-09 05:34:37"}
+{"level":"error","message":"Op is not defined","timestamp":"2023-09-09 05:48:43"}
+{"level":"error","message":"sequelize is not defined","timestamp":"2023-09-09 05:48:54"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'or')","timestamp":"2023-09-09 05:49:10"}
+{"level":"error","message":"sequelize is not defined","timestamp":"2023-09-09 05:49:19"}
+{"level":"error","message":"функция date_format(timestamp with time zone, unknown) не существует","timestamp":"2023-09-09 05:49:35"}
+{"level":"error","message":"symbol is not a function","timestamp":"2023-09-09 05:52:51"}
+{"level":"error","message":"symbol is not a function","timestamp":"2023-09-09 05:55:11"}
+{"level":"error","message":"symbol is not a function","timestamp":"2023-09-09 05:55:12"}
+{"level":"error","message":"столбец uploads.[object Object] не существует","timestamp":"2023-09-09 05:55:29"}
+{"level":"error","message":"symbol is not a function","timestamp":"2023-09-09 05:56:44"}
+{"level":"error","message":"symbol is not a function","timestamp":"2023-09-09 05:56:58"}
+{"level":"error","message":"symbol is not a function","timestamp":"2023-09-09 05:57:12"}
+{"level":"error","message":"symbol is not a function","timestamp":"2023-09-09 05:57:21"}
+{"level":"error","message":"symbol is not a function","timestamp":"2023-09-09 05:57:47"}
+{"level":"error","message":"symbol is not a function","timestamp":"2023-09-09 05:57:54"}
+{"level":"error","message":"Invalid value {}","timestamp":"2023-09-09 05:58:14"}
+{"level":"error","message":"столбец uploads.[object Object] не существует","timestamp":"2023-09-09 05:58:56"}
+{"level":"error","message":"столбец uploads.[object Object] не существует","timestamp":"2023-09-09 05:59:15"}
+{"level":"error","message":"столбец uploads.[object Object] не существует","timestamp":"2023-09-09 05:59:16"}
+{"level":"error","message":"функция date_format(timestamp with time zone, unknown) не существует","timestamp":"2023-09-09 06:02:44"}
+{"level":"error","message":"функция date_format(timestamp with time zone, unknown) не существует","timestamp":"2023-09-09 06:03:28"}
+{"level":"error","message":"функция date_format(timestamp with time zone, unknown) не существует","timestamp":"2023-09-09 06:03:44"}
+{"level":"error","message":"функция date_format(timestamp with time zone, unknown) не существует","timestamp":"2023-09-09 06:03:51"}
+{"level":"error","message":"функция date_format(timestamp with time zone, unknown) не существует","timestamp":"2023-09-09 06:03:52"}
+{"level":"error","message":"функция date_format(timestamp with time zone, unknown) не существует","timestamp":"2023-09-09 06:04:04"}
+{"level":"error","message":"функция date_format(timestamp with time zone, unknown) не существует","timestamp":"2023-09-09 06:04:05"}
+{"level":"error","message":"id is not defined","timestamp":"2023-09-09 06:05:52"}
+{"level":"error","message":"sequelize is not defined","timestamp":"2023-09-09 06:06:28"}
+{"level":"error","message":"функция date_format(timestamp with time zone, unknown) не существует","timestamp":"2023-09-09 06:06:37"}
+{"level":"error","message":"столбец uploads.formattedDate не существует","timestamp":"2023-09-09 06:08:17"}
+{"level":"error","message":"столбец uploads.to_format_date не существует","timestamp":"2023-09-09 06:08:48"}
+{"level":"error","message":"[{\"fn\":\"to_char\",\"args\":[{\"col\":\"updated_at\"},\"YYYY-MM-DD\"]}] is not a valid attribute definition. Please use the following format: ['attribute definition', 'alias']","timestamp":"2023-09-09 06:09:34"}
+{"level":"error","message":"Op is not defined","timestamp":"2023-09-09 06:11:27"}
+{"level":"error","message":"[{\"fn\":\"to_char\",\"args\":[{\"col\":\"updated_at\"},\"YYYY-MM-DD\"]}] is not a valid attribute definition. Please use the following format: ['attribute definition', 'alias']","timestamp":"2023-09-09 06:11:38"}
+{"level":"error","message":"столбец uploads.[object Object] не существует","timestamp":"2023-09-09 06:12:00"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'gte')","timestamp":"2023-09-09 06:12:15"}
+{"level":"error","message":"столбец uploads.[object Object] не существует","timestamp":"2023-09-09 06:12:23"}
+{"level":"error","message":"undefined is not a function","timestamp":"2023-09-09 06:12:43"}
+{"level":"error","message":"столбец uploads.[object Object] не существует","timestamp":"2023-09-09 06:12:54"}
+{"level":"error","message":"столбец uploads.[object Object] не существует","timestamp":"2023-09-09 06:13:00"}
+{"level":"error","message":"столбец uploads.[object Object] не существует","timestamp":"2023-09-09 06:16:00"}
+{"level":"error","message":"столбец uploads.[object Object] не существует","timestamp":"2023-09-09 06:16:02"}
+{"level":"error","message":"Op is not defined","timestamp":"2023-09-09 06:16:38"}
+{"level":"error","message":"функция date_format(timestamp with time zone, unknown) не существует","timestamp":"2023-09-09 06:16:48"}
+{"level":"error","message":"оператор не существует: timestamp with time zone ~~ unknown","timestamp":"2023-09-09 06:18:41"}
+{"level":"error","message":"оператор не существует: timestamp with time zone ~~ unknown","timestamp":"2023-09-09 06:18:47"}
+{"level":"error","message":"оператор не существует: timestamp with time zone ~~ unknown","timestamp":"2023-09-09 06:20:37"}
+{"level":"error","message":"оператор не существует: timestamp with time zone ~~ unknown","timestamp":"2023-09-09 06:20:38"}
+{"level":"error","message":"Op is not defined","timestamp":"2023-09-09 06:24:11"}
+{"level":"error","message":"WHERE parameter \"id\" has invalid \"undefined\" value","timestamp":"2023-09-09 07:14:47"}
+{"level":"error","message":"WHERE parameter \"id\" has invalid \"undefined\" value","timestamp":"2023-09-09 07:14:50"}
+{"level":"error","message":"ENOENT: no such file or directory, stat 'C:\\Projects\\Test tasks\\image-keeper-server\\.undefined\\public\\5cca9b.pnghttp:\\localhost:5000\\public\\5cca9b.png'","timestamp":"2023-09-09 07:16:44"}
+{"level":"error","message":"ENOENT: no such file or directory, stat 'C:\\Projects\\Test tasks\\image-keeper-server\\.undefined\\public\\5cca9b.pnghttp:\\localhost:5000\\public\\5cca9b.png'","timestamp":"2023-09-09 07:16:55"}
+{"level":"error","message":"ENOENT: no such file or directory, stat 'C:\\Projects\\Test tasks\\image-keeper-server\\.undefined\\public\\5cca9b.pnghttp:\\localhost:5000\\public\\5cca9b.png'","timestamp":"2023-09-09 07:17:06"}
+{"level":"error","message":"ENOENT: no such file or directory, stat 'C:\\Projects\\Test tasks\\image-keeper-server\\.undefined\\public\\5cca9b.pnghttp:\\localhost:5000\\public\\5cca9b.png'","timestamp":"2023-09-09 07:17:38"}
+{"level":"error","message":"ENOENT: no such file or directory, stat 'C:\\Projects\\Test tasks\\image-keeper-server\\public\\5cca9b.pnghttp:\\localhost:5000\\public\\5cca9b.png'","timestamp":"2023-09-09 07:18:08"}
+{"level":"error","message":"ENOENT: no such file or directory, stat 'C:\\Projects\\Test tasks\\image-keeper-server\\public\\5cca9b.pnghttp:\\localhost:5000\\public\\5cca9b.png'","timestamp":"2023-09-09 07:18:47"}
+{"level":"error","message":"ENOENT: no such file or directory, stat 'C:\\Projects\\Test tasks\\image-keeper-server\\public\\5cca9b.pnghttp:\\localhost:5000\\public\\5cca9b.png'","timestamp":"2023-09-09 07:19:39"}
+{"level":"error","message":"ENOENT: no such file or directory, stat 'C:\\Projects\\Test tasks\\public\\5cca9b.png'","timestamp":"2023-09-09 07:21:34"}
+{"level":"error","message":"ENOENT: no such file or directory, stat 'C:\\Projects\\Test tasks\\public\\5cca9b.png'","timestamp":"2023-09-09 07:21:39"}
+{"level":"error","message":"ENOENT: no such file or directory, stat 'C:\\Projects\\Test tasks\\public\\5cca9b.png'","timestamp":"2023-09-09 07:21:39"}
+{"level":"error","message":"ENOENT: no such file or directory, stat 'C:\\public\\5cca9b.png'","timestamp":"2023-09-09 07:21:54"}
+{"level":"error","message":"ENOENT: no such file or directory, stat 'C:\\public\\5cca9b.png'","timestamp":"2023-09-09 07:21:55"}
+{"level":"error","message":"WHERE parameter \"id\" has invalid \"undefined\" value","timestamp":"2023-09-09 07:27:44"}
+{"level":"error","message":"WHERE parameter \"id\" has invalid \"undefined\" value","timestamp":"2023-09-09 08:06:34"}
+{"level":"error","message":"Ошибка: изображения с идентификатором 1 не найдено","timestamp":"2023-09-09 08:28:20"}
+{"level":"error","message":"Ошибка: изображения с идентификатором 1 не найдено","timestamp":"2023-09-09 08:28:20"}
+{"level":"error","message":"Ошибка: изображения с идентификатором 1 не найдено","timestamp":"2023-09-09 08:28:20"}
+{"level":"error","message":"Ошибка: изображения с идентификатором 1 не найдено","timestamp":"2023-09-09 08:28:21"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:32:18"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:33:27"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:35:23"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:35:52"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:38:13"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:46:36"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:46:36"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:46:38"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:46:38"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:47:03"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:47:38"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:49:23"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:49:54"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:49:55"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:51:14"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:53:25"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:53:25"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 08:59:59"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 09:00:37"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 09:00:37"}
+{"level":"error","message":"read ECONNRESET","timestamp":"2023-09-09 09:02:35"}
